@@ -2,3 +2,10 @@ h1{
   font-weight: 900;
   font-family: cursive;
 }
+button{
+  padding: 9px 16px;
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 10px;
+}
